@@ -32,7 +32,7 @@ list_of_files = [
     "pyproject.toml",
     "tox.ini",
     "notebooks/EDA.ipynb",
-    "notebooks/MOdel_Training.ipynb"
+    "notebooks/Model_Training.ipynb"
 ]
 
 
