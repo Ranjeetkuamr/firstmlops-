@@ -4,6 +4,9 @@ from pathlib import Path
 import os
 from pathlib import Path
 
+package_name = "mongodb_connect"
+
+
 list_of_files = [
     ".github/workflows/.gitkeep",
     "src/__init__.py",
@@ -30,6 +33,7 @@ list_of_files = [
     "tox.ini",
     "experiment/experiments.ipynb"
 ]
+
 
 
 for filepath in list_of_files:
