@@ -31,7 +31,8 @@ list_of_files = [
     "setup.cfg",
     "pyproject.toml",
     "tox.ini",
-    "experiment/experiments.ipynb"
+    "notebooks/EDA.ipynb",
+    "notebooks/MOdel_Training.ipynb"
 ]
 
 
