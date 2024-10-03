@@ -9,6 +9,7 @@ ipykernel
 xgboost
 numpy
 catboost
+pickle
 
 # dev requirements -
 
@@ -17,3 +18,5 @@ tox==3.25.1
 black==22.8.0
 flake8==5.0.4
 mypy==0.971
+
+-e .
