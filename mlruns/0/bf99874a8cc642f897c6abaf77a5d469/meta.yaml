@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/firstmlops-/mlruns/0/bf99874a8cc642f897c6abaf77a5d469/artifacts
+end_time: 1728069616982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bf99874a8cc642f897c6abaf77a5d469
+run_name: treasured-bass-271
+run_uuid: bf99874a8cc642f897c6abaf77a5d469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728069611460
+status: 3
+tags: []
+user_id: ranje
