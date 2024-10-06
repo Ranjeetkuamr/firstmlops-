@@ -1,4 +1,4 @@
-name: diamond price
+name: diamondpriceprediction
 
 on:
   push:
