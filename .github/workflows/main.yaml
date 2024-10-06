@@ -1,4 +1,4 @@
-name: diamond
+name: diamondprediction
 
 on:
   push:
