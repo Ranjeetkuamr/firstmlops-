@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/firstmlops-/mlruns/0/98398899adf14336bac9f7237fcfa9ad/artifacts
+end_time: 1728176815635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98398899adf14336bac9f7237fcfa9ad
+run_name: unruly-pig-265
+run_uuid: 98398899adf14336bac9f7237fcfa9ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728176809185
+status: 3
+tags: []
+user_id: ranje

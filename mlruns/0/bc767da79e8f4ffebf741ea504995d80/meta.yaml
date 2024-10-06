@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/firstmlops-/mlruns/0/bc767da79e8f4ffebf741ea504995d80/artifacts
+end_time: 1728177065472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc767da79e8f4ffebf741ea504995d80
+run_name: thoughtful-bass-264
+run_uuid: bc767da79e8f4ffebf741ea504995d80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728177062253
+status: 3
+tags: []
+user_id: ranje

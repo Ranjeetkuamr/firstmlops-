@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/firstmlops-/mlruns/0/54541d14f41c4306a8947f376624c555/artifacts
+end_time: 1728177807915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54541d14f41c4306a8947f376624c555
+run_name: sincere-fawn-930
+run_uuid: 54541d14f41c4306a8947f376624c555
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728177804575
+status: 3
+tags: []
+user_id: ranje
