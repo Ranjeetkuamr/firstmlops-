@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/firstmlops-/mlruns/0/7ba44e16e0f143459fefad71f1de962a/artifacts
+end_time: 1728222738178
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ba44e16e0f143459fefad71f1de962a
+run_name: casual-gnu-551
+run_uuid: 7ba44e16e0f143459fefad71f1de962a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728222729507
+status: 3
+tags: []
+user_id: ranje

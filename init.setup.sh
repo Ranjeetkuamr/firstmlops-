@@ -13,6 +13,6 @@ source activate ./env
 
 echo [$(date)]: "installing the dev requirements" 
 
-pip install -r requirements_dev.txt
+pip install -r requirements.txt
 
 echo [$(date)]: "END" 
