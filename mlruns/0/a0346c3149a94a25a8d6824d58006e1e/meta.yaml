@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/firstmlops-/mlruns/0/a0346c3149a94a25a8d6824d58006e1e/artifacts
+end_time: 1728224187246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0346c3149a94a25a8d6824d58006e1e
+run_name: rambunctious-doe-246
+run_uuid: a0346c3149a94a25a8d6824d58006e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728224180631
+status: 3
+tags: []
+user_id: ranje
