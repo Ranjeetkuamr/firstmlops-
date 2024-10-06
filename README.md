@@ -1,1 +1,1 @@
-## Diamond  price Prediction 
+## Diamond prediction
