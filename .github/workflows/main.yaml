@@ -1,4 +1,4 @@
-name: gemstone
+name: gemstone predict
 
 on:
   push:
